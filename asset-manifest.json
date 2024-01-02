@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NetFlix-App_1.01/static/css/main.530f9bad.css",
+    "main.js": "/NetFlix-App_1.01/static/js/main.489fc6df.js",
+    "static/js/787.a108a004.chunk.js": "/NetFlix-App_1.01/static/js/787.a108a004.chunk.js",
+    "index.html": "/NetFlix-App_1.01/index.html",
+    "main.530f9bad.css.map": "/NetFlix-App_1.01/static/css/main.530f9bad.css.map",
+    "main.489fc6df.js.map": "/NetFlix-App_1.01/static/js/main.489fc6df.js.map",
+    "787.a108a004.chunk.js.map": "/NetFlix-App_1.01/static/js/787.a108a004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.530f9bad.css",
+    "static/js/main.489fc6df.js"
+  ]
+}
